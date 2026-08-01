@@ -1,4 +1,4 @@
-# Hybrid Adaptive Multilevel Sparse PDE Solver (HSPS)
+# Hybrid Adaptive Multilevel Sparse PDE Solver (HAMLSS)
 
 ## Overview
 
