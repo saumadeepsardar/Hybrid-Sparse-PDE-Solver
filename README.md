@@ -2,7 +2,7 @@
 
 ## Overview
 
-HSPS is a prototype C++17 framework for solving sparse linear systems arising
+HAMLSS is a prototype C++17 framework for solving sparse linear systems arising
 from PDE discretisations. It implements the **online adaptive ladder** described
 in the design spec: start cheap and escalate only when needed, minimising energy
 per successful solve.
